@@ -1,2 +1,5 @@
 *.dat
+#or
+**/*.dat
 results/
+.gitignore
